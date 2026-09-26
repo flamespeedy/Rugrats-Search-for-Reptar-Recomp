@@ -21,3 +21,12 @@ This repo exists to:
 ## Legal
 This repository contains **no game assets or original code**.  
 You must own a legitimate copy of the game.
+
+## Useful Links
+- [Redump entry](http://redump.org/disc/10960/) (US version)
+- [GameFAQs / Guides](https://gamefaqs.gamespot.com/ps/198522-rugrats-search-for-reptar)
+- [TCRF page](https://tcrf.net/Rugrats:_Search_for_Reptar) (unused content)
+
+## Related Games
+- *Rugrats: Studio Tour* (sequel)
+- Other n-Space PS1 titles
