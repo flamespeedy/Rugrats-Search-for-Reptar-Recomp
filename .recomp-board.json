@@ -2,11 +2,11 @@
   "game": "Rugrats: Search for Reptar",
   "system": "PS1",
   "type": "recomp",
-  "project": "Rugrats Search for Reptar Recomp (Interest)",
+  "project": "Rugrats Search for Reptar (Interest Repo)",
   "status": "exploring",
   "toolchain": "Psxrecomp",
-  "approach": "Placeholder / interest repo. No active work yet.",
-  "notes": "Unofficial interest repository. Looking for people interested in researching or starting a recomp/decomp of this game.",
+  "approach": "Placeholder / interest repository. No active development yet.",
+  "notes": "Unofficial interest repo to gauge community interest and collect research notes for a potential recomp or decomp.",
   "maintainers": [
     {
       "name": "flamespeedy",
