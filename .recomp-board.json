@@ -1,0 +1,16 @@
+{
+  "game": "Rugrats: Search for Reptar",
+  "system": "PS1",
+  "type": "recomp",
+  "project": "Rugrats Search for Reptar Recomp (Interest)",
+  "status": "exploring",
+  "toolchain": "Psxrecomp",
+  "approach": "Placeholder / interest repo. No active work yet.",
+  "notes": "Unofficial interest repository. Looking for people interested in researching or starting a recomp/decomp of this game.",
+  "maintainers": [
+    {
+      "name": "flamespeedy",
+      "link": "https://github.com/flamespeedy"
+    }
+  ]
+}
